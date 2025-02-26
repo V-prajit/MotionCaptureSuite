@@ -1,4 +1,4 @@
-# A Camera App
+# MotionCaptureSuite
 
 ## Key Parts
 - **Record a Video:** Enables recording with a real-time camera view and a custom filename.
